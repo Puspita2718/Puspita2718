@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Soham%20Roy%20Chowdhury&fontSize=50&fontAlign=50&fontAlignY=40&color=0:00F5A0,100:00D9F5&stroke=ffffff&strokeWidth=1&animation=fadeIn&fontColor=ffffff&desc=Aspiring%20Software%20Engineer%20%7C%20CSE%20Undergrad%20%7C%20Problem%20Solver&descSize=18&descAlignY=70&fontFamily=Orbitron" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Puspita%20Maji&fontSize=50&fontAlign=50&fontAlignY=40&color=0:00F5A0,100:00D9F5&stroke=ffffff&strokeWidth=1&animation=fadeIn&fontColor=ffffff&desc=Aspiring%20Software%20Engineer%20%7C%20CSE%20Undergrad%20%7C%20Problem%20Solver&descSize=18&descAlignY=70&fontFamily=Orbitron" width="100%"/>
 </div>
 
 <div align="center">
@@ -11,10 +11,10 @@
 </div>
 
 <div align="center">
-  <a href="mailto:sohamroychowdhury2004@gmail.com">
+  <a href="mailto:puspita27122005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="[https://www.linkedin.com/in/sohamroyc/](https://www.linkedin.com/in/soham-roy-chowdhury-711426209/)">
+  <a href="https://www.linkedin.com/in/puspita-maji-79753336b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
