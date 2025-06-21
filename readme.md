@@ -11,10 +11,10 @@
 </div>
 
 <div align="center">
-  <a href="mailto:sohamroychowdhury2004@gmail.com">
+  <a href="mailto:puspita27122005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="[https://www.linkedin.com/in/sohamroyc/](https://www.linkedin.com/in/soham-roy-chowdhury-711426209/)">
+  <a href="https://www.linkedin.com/in/puspita-maji/"> <!-- Update this with the real LinkedIn URL -->
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
@@ -81,25 +81,25 @@
 <h2 align="center">🌟 Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/sohamroyc/Pocket-Dockter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohamroyc&repo=Pocket-Dockter&theme=react&bg_color=1F222E&title_color=3EEDB9&icon_color=F8D866&hide_border=true&show_icons=true" />
+  <a href="https://github.com/Puspita2718/Pocket-Dockter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Puspita2718&repo=Pocket-Dockter&theme=react&bg_color=1F222E&title_color=3EEDB9&icon_color=F8D866&hide_border=true&show_icons=true" />
   </a>
-  <a href="https://github.com/sohamroyc/Aiportfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohamroyc&repo=Aiportfolio&theme=react&bg_color=1F222E&title_color=3EEDB9&icon_color=F8D866&hide_border=true&show_icons=true" />
+  <a href="https://github.com/Puspita2718/Aiportfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Puspita2718&repo=Aiportfolio&theme=react&bg_color=1F222E&title_color=3EEDB9&icon_color=F8D866&hide_border=true&show_icons=true" />
   </a>
 </div>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sohamroyc&show_icons=true&count_private=true&hide_border=true&title_color=3EEDB9&icon_color=3EEDB9&text_color=c9d1d9&bg_color=0d1117" alt="Puspita's GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamroyc&layout=compact&hide_border=true&title_color=3EEDB9&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Puspita2718&show_icons=true&count_private=true&hide_border=true&title_color=3EEDB9&icon_color=3EEDB9&text_color=c9d1d9&bg_color=0d1117" alt="Puspita's GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puspita2718&layout=compact&hide_border=true&title_color=3EEDB9&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <h2 align="center">👨‍💻 Contribution Activity</h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohamroyc&theme=github_dark" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Puspita2718&theme=github_dark" width="100%">
 </div>
 
 <div align="center">
