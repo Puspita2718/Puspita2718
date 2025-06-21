@@ -92,14 +92,14 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sohamroyc&show_icons=true&count_private=true&hide_border=true&title_color=3EEDB9&icon_color=3EEDB9&text_color=c9d1d9&bg_color=0d1117" alt="Soham's GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamroyc&layout=compact&hide_border=true&title_color=3EEDB9&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=puspita&show_icons=true&count_private=true&hide_border=true&title_color=3EEDB9&icon_color=3EEDB9&text_color=c9d1d9&bg_color=0d1117" alt="Puspita's GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puspita Maji&layout=compact&hide_border=true&title_color=3EEDB9&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <h2 align="center">👨‍💻 Contribution Activity</h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohamroyc&theme=github_dark" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Puspita Maji&theme=github_dark" width="100%">
 </div>
 
 <div align="center">
